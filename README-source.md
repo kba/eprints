@@ -15,6 +15,12 @@ sudo apt-get install automake autoconf make
 sudo useradd eprints
 ```
 
+## Install Perl modules from CPAN
+
+```
+perl cpan_modules.pl
+```
+
 ## Run autotool chain
 
 ```
